@@ -1,0 +1,9 @@
+{
+  "vehiculos": [
+    { "id": 1, "marca": "Audi", "modelo": "A1", "color": "blanco", "fabric": "01/01/2010" },
+	{ "id": 2, "marca": "BMW", "modelo": "Serie 1", "color": "negro", "fabric": "01/05/2017" },
+	{ "id": 3, "marca": "Cadillac", "modelo": "ATS", "color": "rojo", "fabric": "13/02/2018" },
+	{ "id": 4, "marca": "Cupra", "modelo": "Ibiza", "color": "gris", "fabric": "09/09/2015" },
+	{ "id": 5, "marca": "Ferrari", "modelo": "458", "color": "amarillo", "fabric": "15/09/2001" }
+  ]
+}
