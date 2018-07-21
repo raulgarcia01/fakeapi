@@ -56,6 +56,54 @@
       ]
     }
   ],
+  "antiguedad_cxc_cxp_prov.json": [
+    {
+      "data": [
+		   {
+			  "id_prov":1,
+			  "rfc":"APF1302069L2",
+			  "razon_social":"Asesores Profes. en Fiscal Patrim. y Cap. del norte",
+			  "num_factura":1,
+			  "total_cfdi": 12940.96,
+			  "saldo":12940.96,
+			  "plazo":"15",
+			  "tipo":"CREDITO",
+			  "por_vencer":12940.96,
+			  "vencido":15,
+			  "dia_7":0.00,
+			  "dia_10":0.00,
+			  "dia_15":0.00,
+			  "dia_21":0.00,
+			  "dia_30":0.00,
+			  "dia_45":0.00,
+			  "dia_60":0.00,
+			  "dia_90":0.00,
+			  "total_cartera":null
+		   },
+       {
+			  "id_prov":2,
+			  "rfc":"TSO991022PB6",
+			  "razon_social":"TIENDAS SORIANA S.A. DE C.V",
+			  "num_factura":1,
+			  "total_cfdi": 58.00,
+			  "saldo":58.00,
+			  "plazo":null,
+			  "tipo":"CONTADO",
+			  "por_vencer":null,
+			  "vencido":6,
+			  "dia_7":58.00,
+			  "dia_10":0.00,
+			  "dia_15":0.00,
+			  "dia_21":0.00,
+			  "dia_30":0.00,
+			  "dia_45":0.00,
+			  "dia_60":0.00,
+			  "dia_90":0.00,
+			  "total_cartera":58.00
+		   }
+		]
+    }
+  ],
   "cte_prov_general.json": [
     {
       "data": [
