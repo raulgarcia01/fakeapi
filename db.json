@@ -27,54 +27,6 @@
 		]
     }
   ],
-  "antiguedad_cxc_cxp_prov.json": [
-    {
-      "data": [
-		   {
-			  "id_prov":1,
-			  "rfc":"APF1302069L2",
-			  "razon_social":"Asesores Profes. en Fiscal Patrim. y Cap. del norte",
-			  "num_factura":1,
-			  "total_cfdi": 12940.96,
-			  "saldo":12940.96,
-			  "plazo":"15",
-			  "tipo":"CREDITO",
-			  "por_vencer":12940.96,
-			  "vencido":15,
-			  "dia_7":0.00,
-			  "dia_10":0.00,
-			  "dia_15":0.00,
-			  "dia_21":0.00,
-			  "dia_30":0.00,
-			  "dia_45":0.00,
-			  "dia_60":0.00,
-			  "dia_90":0.00,
-			  "total_cartera":null
-		   },
-       {
-			  "id_prov":2,
-			  "rfc":"TSO991022PB6",
-			  "razon_social":"TIENDAS SORIANA S.A. DE C.V",
-			  "num_factura":1,
-			  "total_cfdi": 58.00,
-			  "saldo":58.00,
-			  "plazo":null,
-			  "tipo":"CONTADO",
-			  "por_vencer":null,
-			  "vencido":6,
-			  "dia_7":58.00,
-			  "dia_10":0.00,
-			  "dia_15":0.00,
-			  "dia_21":0.00,
-			  "dia_30":0.00,
-			  "dia_45":0.00,
-			  "dia_60":0.00,
-			  "dia_90":0.00,
-			  "total_cartera":58.00
-		   }
-		]
-    }
-  ],
   "antiguedad_detalle.json": [
     {
       "data": [
@@ -104,56 +56,6 @@
       ]
     }
   ],
-  "antiguedad_detalle_prov.json": [
-    {
-      "data": [
-		   {
-			  "id_prov":1,
-			  "rfc":"APF1302069L2",
-			  "razon_social":"Asesores Profes. en Fiscal Patrim. y Cap. del norte",
-			  "fecha_cfdi":"31/01/2018",
-        "num_folio":"299",
-        "total_cfdi":12940.96,
-        "saldo":12940.96,
-        "plazo":"15",
-        "tipo":" CREDITO",
-			  "por_vencer":12940.96,
-			  "vencido":15,
-			  "dia_7":0.00,
-			  "dia_10":0.00,
-			  "dia_15":0.00,
-			  "dia_21":0.00,
-			  "dia_30":0.00,
-			  "dia_45":0.00,
-			  "dia_60":0.00,
-			  "dia_90":0.00,
-			  "total_cartera":null
-		   },
-       {
-			  "id_prov":2,
-			  "rfc":"TSO991022PB6",
-			  "razon_social":"TIENDAS SORIANA S.A. DE C.V",
-			  "fecha_cfdi":"25/01/2018",
-        "num_folio":"BAAFE 1958",
-        "total_cfdi":58.00,
-        "saldo":58.00,  
-        "plazo":null,
-        "tipo":"CONTADO",
-			  "por_vencer":null,
-			  "vencido":6,
-			  "dia_7":58.00,
-			  "dia_10":0.00,
-			  "dia_15":0.00,
-			  "dia_21":0.00,
-			  "dia_30":0.00,
-			  "dia_45":0.00,
-			  "dia_60":0.00,
-			  "dia_90":0.00,
-			  "total_cartera":58.00
-		   }
-		]
-    }
-  ],
   "cte_prov_general.json": [
     {
       "data": [
@@ -166,32 +68,6 @@
             "tipo":" CREDITO ",
             "plazo":"30 ",
             "saldo":3625.00
-         }
-      ]
-    }
-  ],
-  "cte_prov_general_prov.json": [
-    {
-      "data": [
-         {
-            "id_prov":"1",
-            "num_factura":"299",
-            "rfc":"APF1302069L2",
-            "razon_social":"Asesores Profes. en Fiscal Patrim. y Cap. del norte",
-            "total_cfdi":12940.96,
-            "tipo":" CREDITO",
-            "plazo":"15 ",
-            "saldo":12940.96
-         },
-         {
-            "id_prov":"2",
-            "num_factura":"BAAFE 1958",
-            "rfc":"TSO991022PB6",
-            "razon_social":"TIENDAS SORIANA S.A. DE C.V",
-            "total_cfdi":58.00,
-            "tipo":" CONTADO",
-            "plazo":null,
-            "saldo":58.00
          }
       ]
     }
@@ -224,38 +100,6 @@
             "fecha_vto":"07/10/2012",
             "saldo":1624.00,
             "acumulado":1624.00
-         }
-      ]
-    }
-  ],
-  "cte_prov_detalle_prov.json": [
-    {
-      "data": [
-         {
-            "id_prov":"1",
-            "num_factura":"299",
-            "fecha_cfdi":"31/01/2018",
-            "rfc":"APF1302069L2",
-            "razon_social":"Asesores Profes. en Fiscal Patrim. y Cap. del norte",
-            "total_cfdi":12940.96,
-            "tipo":" CREDITO",
-            "plazo":"15 ",
-            "fecha_vto":"15/02/2018",
-            "saldo":12940.96,
-            "acumulado":12940.96
-         },
-         {
-            "id_prov":"2",
-            "num_factura":"BAAFE 1958",
-            "fecha_cfdi":"25/01/2018",
-            "rfc":"TSO991022PB6",
-            "razon_social":"TIENDAS SORIANA S.A. DE C.V",
-            "total_cfdi":58.00,
-            "tipo":" CONTADO",
-            "plazo":null,
-            "fecha_vto":"25/01/2018",
-            "saldo":58.00,
-            "acumulado":58.00
          }
       ]
     }
