@@ -103,34 +103,32 @@
          }
       ]
     },
+    
+  ],
+  "staff_info": [
     {
-    "staff_info": [
-      {
-        "data": [
-         {
-          "resource_type":"STAFF",
-          "resource":"DAVID SANTOS",
-          "grade":"G4",
-          "location":"IAD",
-          "salary_week":4650,
-          "total_weeks":4,
-          "num_misions":2,
-          "days_mission":4
-         },
-         {
-          "resource_type":"CONSULTANT",
-          "resource":"CESAR ESPINOZA",
-          "grade":"G2",
-          "location":"GUA",
-          "salary_week":1250,
-          "total_weeks":5,
-          "num_misions":2,
-          "days_mission":4
-         }
-        ]
+      "data": [
+		   {
+			  "resource_type":"STAFF",
+			  "resource":"DAVID SANTOS",
+			  "grade":"G4",
+			  "location":"IAD",
+			  "salary_week":4650,
+			  "total_weeks":4,
+			  "num_misions":2,
+			  "days_mission":4
+		   },
+		   {
+			  "resource_type":"CONSULTANT",
+			  "resource":"CESAR ESPINOZA",
+			  "grade":"G2",
+			  "location":"GUA",
+			  "salary_week":1250,
+			  "total_weeks":5,
+			  "num_misions":2,
+			  "days_mission":4
+		   }
+      ]
     }
-  ]
-}
-
   ]
 }
