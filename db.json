@@ -1,8 +1,7 @@
 {
-  "activacion": [
-  ],
-  "notificacion": [
-  ],
-  "customer": [
+  "result": [
+	{
+	  "edad": 10
+	}
   ]
 }
